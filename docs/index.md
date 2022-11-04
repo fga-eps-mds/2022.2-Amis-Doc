@@ -1,7 +1,6 @@
 # Franquia Social
 
-O projeto da Plataforma de Franquia Social surgiu no semestre de 2022.2, sendo desenvolvido pelas disciplinas de EPS e MDS. O PUMA é um projeto que tem por objetivo auxiliar os professores no gerenciamento das disciplinas da Engenharia de Produção da Universidade de Brasilia.
-
+O projeto da Plataforma de Franquia Social surgiu no semestre de 2022.2, sendo desenvolvido pelas disciplinas de EPS e MDS. A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. 
 ## Equipe
 
 A equipe é composta por 11 membros ao todo, sendo 5 de EPS e 6 de MDS, afim de documentar e desenvolver o projeto.
