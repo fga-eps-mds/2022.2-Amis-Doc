@@ -9,7 +9,7 @@ O quadro de conhecimentos serve para auxiliar a equipe na escolha das tecnologia
 Os quadros foram separados em azul claro (alunos de EPS) e azul escuro (alunos de MDS).
 
 ### Sprint 0
-![Quadro de Conhecimentos 1](../../assets/quadro_conhecimentos_1.png)
+![Quadro de Conhecimentos 1](../assets/quadro_conhecimentos_1.png)
 
 ## Versionamento
 
