@@ -1,7 +1,6 @@
 FROM python:3.8-alpine
 
 WORKDIR /docs
-COPY . .
 RUN pip install mkdocs
 RUN pip install mkdocs-material
 
@@ -11,6 +10,7 @@ RUN apk add --no-cache \
     && apk del .build gcc musl-dev \
     && rm -rf /tmp/*
 
+COPY . .
 EXPOSE 8000
 
 CMD ["mkdocs","serve", "--dev-addr=0.0.0.0:8000"]
