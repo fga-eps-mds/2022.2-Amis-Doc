@@ -20,7 +20,7 @@ nav:
     - Organização:
        - Metodologia: Organizacao/metodologia.md
        - Plano de Comunicação: Organizacao/plano_comunicacao.md
-       - Quadro de Conhecimento: Organizacao/quadro_conhecimento.md
+       - Quadros de Conhecimentos: Organizacao/quadro_conhecimento.md
     - Sprints e Releases:
         - Sprint 0: Sprints_Releases/sprint0.md
     - Visão de Produto:
