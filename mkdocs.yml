@@ -7,3 +7,24 @@ theme:
 
 nav:
     - Home: index.md
+    - Arquitetura: 
+        - Arquitetura: docs/Arquitetura/arquitetura.md
+    - Backlog: docs/Backlog/backlog.md
+    - Custo e Risco: 
+        - Custo: docs/Custo_Risco/custo.md
+        - Risco: docs/Custo_Risco/risco.md
+    - EVM: 
+        - EVM: docs/EVM/evm.md
+    - Guia de Contribuição: 
+        - Guia de Contribuição: docs/Guia_Contribuicao/guia_contribuicao.md  
+    - Organização:
+       - Metodologia: docs/Organizacao/metodologia.md
+       - Plano de Comunicação: docs/Organizacao/plano_comunicacao.md
+       - Quadro de Conhecimento: docs/Organizacao/quadro_conhecimento.md
+    - Sprints e Releases:
+        - Sprint 0: docs/Sprints_Releases/sprint0.md
+    - Visão de Produto:
+        - Visão de Produto: docs/Visao_Produto/visao_pd.md
+    - Visual:
+        - Protótipo de Alta Fidelidade: docs/Visual/prototipo_alta.md
+        - Protótipo de Baixa Fidelidade: docs/Visual/prototipo_baixa.md
