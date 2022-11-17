@@ -1,19 +1,19 @@
 # Metodologias
 
-<p align="justify">Neste documento está descrito todo o processo utilizado para desenvolver o projeto <b>AMIS</b> e para isso foi utilizado metodologias ágeis de <i>software</i>; sendo elas: Scrum e XP,.</p>
+<p align="justify">Neste documento está descrito todo o processo utilizado para desenvolver o projeto <b>AMIS</b> e para isso foi utilizado metodologias ágeis de <i>software</i>; sendo elas: Scrum e XP.</p>
 
 
 ##  <b>Scrum</b>
 
 <p align="justify">Scrum é um <i>framework</i>, onde as decisões são baseadas na observação, experiência e experimentação. O Scrum possui três pilares: transparência, inspeção e adaptação. Isso suporta o conceito de trabalhar de forma iterativa. Pense neste <i>framework</i> como um trabalho por meio de pequenos experimentos, aprendendo com o mesmo e adaptando tanto o que você está fazendo quanto o que está sendo feito conforme necessário.</p>
 
-<p align="justify">Durante o projeto <i>AMIS</i>,estes ritos ágeis foram utilizados: <i>Product Backlog, Sprints, Sprint Planning, Sprint Review</i></p>
+<p align="justify">Durante o projeto <i>AMIS</i>, estes ritos ágeis foram utilizados: <i>Product Backlog, Sprints, Sprint Planning, Sprint Review.</i></p>
 
 
 ### <i>Product Backlog</i>
 <p align="justify">Na metodologia Scrum, o termo Backlog é uma lista priorizada que contém uma breve descrição da funcionalidade necessária no projeto.</p>
 
-<p align="justify">O <i>Product Backlog</i> do projeto <i>AMIS</i> pode ser visualizado <a href="https://fga-eps-mds.github.io/2022.2-Amis-Doc/Backlog/backlog/">aqui</a>, o qual foi criado com base nas histórias de usuários, e é utilizado para a criação das issues.</p>
+<p align="justify">O <i>Product Backlog</i> do projeto <i>AMIS</i> pode ser visualizado <a href="https://fga-eps-mds.github.io/2022.2-Amis-Doc/Backlog/backlog/">aqui</a>, o qual foi criado com base nas histórias de usuários e é utilizado para a criação das issues.</p>
 
 
 
@@ -24,7 +24,7 @@
 <p align="justify">A <i>Sprint Planning</i> é um rito ágil de planejamento onde é decidido quais <i>issues</i> do <i>Product Backlog</i> serão feitas na próxima <i>Sprint</i>.</p>
 
 
-<p align="justify">No projeto <i>AMIS</i> as <i>Sprints</i> são realizadas no tempo de uma ou duas semanas. Nas reuniões com os <i>Product Owners</i> é apresentado os avanços no produto que foram implementadas durante a <i>Sprint</i>.</p>
+<p align="justify">No projeto <i>AMIS</i> as <i>Sprints</i> são realizadas no tempo de uma ou duas semanas. Nas reuniões com os <i>Product Owners</i> são apresentados os avanços no produto que foram implementadas durante a <i>Sprint</i>.</p>
 
 
 
@@ -82,3 +82,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/11/2022|1.0|Adiciona a descrição das metodologias do projeto|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
+|16/11/2022|1.0|Correção gramatical|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
