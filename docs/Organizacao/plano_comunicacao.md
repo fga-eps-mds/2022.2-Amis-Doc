@@ -1,7 +1,9 @@
 #	Plano de Comunicação
 
 ##	Introdução
+Este documento visa guiar a padronização da comunicação do time, definindo as ferramentas utilizadas para contato e a viabilidade de horários da equipe.
 
+O quadro de disponibilidade é utilizado como um guia para definir os melhores horários para as reuniões, pareamentos e comunicação interna.
 
 ###	Quadro de Disponibilidade
 
@@ -30,3 +32,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/11/2022|1.0| Criação do documento |[Thiago Luiz](https://github.com/thiagolsg), [Paulo Borba](https://github.com/paulohborba)
+|16/11/2022|1.0| Alteração da introdução |[Thiago Luiz](https://github.com/thiagolsg), [Paulo Borba](https://github.com/paulohborba)
