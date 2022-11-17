@@ -24,7 +24,11 @@ nav:
     - Sprints e Releases:
         - Sprint 0: Sprints_Releases/sprint0.md
     - Visão de Produto:
+        - Lean Inception: Visao_Produto/lean_inception.md
         - Visão de Produto: Visao_Produto/visao_pd.md
+        - O produto É - NÃO É - FAZ - NÃO FAZ: Visao_Produto/produto_e_naoe.md
+        - Objetivos do Produto: Visao_Produto/objetivos_produto.md
+        - Personas: Visao_Produto/personas.md
     - Visual:
         - Protótipo de Alta Fidelidade: Visual/prototipo_alta.md
         - Protótipo de Baixa Fidelidade: Visual/prototipo_baixa.md
