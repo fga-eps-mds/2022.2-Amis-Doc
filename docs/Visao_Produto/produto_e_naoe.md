@@ -9,4 +9,4 @@ Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Es
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 24/11/2022 | 0.1 | Criação do documento | [Gabriela Pivetta](https://github.com/gabrielapivetta) e [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 19/11/2022 | 0.1 | Criação do documento | [Gabriela Pivetta](https://github.com/gabrielapivetta) e [Italo Bruno](https://github.com/ItaloBrunoM) |
