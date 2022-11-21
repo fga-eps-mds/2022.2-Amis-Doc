@@ -32,6 +32,7 @@ nav:
         - Jornadas de Usuários: Visao_Produto/jornada_usuario.md
         - Brainstorming de Funcionalidades: Visao_Produto/brainstorming_func.md
         - Revisão Técnica, de Negócio e de UX: Visao_Produto/revisao_tecnica.md
+        - Sequenciador: Visao_Produto/sequenciador.md
     - Visual:
         - Protótipo de Alta Fidelidade: Visual/prototipo_alta.md
         - Protótipo de Baixa Fidelidade: Visual/prototipo_baixa.md
