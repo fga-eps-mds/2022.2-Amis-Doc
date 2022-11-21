@@ -27,7 +27,7 @@
 | ---- | ---- | ---- | ---- |
 | [#11](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/11) | Sem pull request associado | Concluída | [Thiago](https://github.com/thiagolsg) e [Paulo](https://github.com/paulohborba)|
 | [#12](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/12) | Sem pull request associado | Concluida | [Thiago](https://github.com/thiagolsg) e [Caio](https://github.com/CaioSulz)|
-| [#13](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/13) |  | Iniciada | [João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred)|
+| [#13](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/13) | [#25](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/25) | Em revisão | [João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred)|
 | [#14](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/14) | Sem pull request associado | Não inciada | [Gabriela](https://github.com/gabrielapivetta) e [Italo](https://github.com/ItaloBrunoM)|
 | [#15](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/15) | [#24](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/24) | Em revisão | [André](https://github.com/andrelucasf), [Kalebe](https://github.com/KalebeLopes), [João Vitor](https://github.com/Jvsoutomaior) e [Fabrício](https://github.com/FabricioDeQueiroz)|
 | [#16](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/16) | Sem pull request associado | Concluida | [Kalebe](https://github.com/KalebeLopes) e [Gabriela](https://github.com/gabrielapivetta)|
@@ -40,3 +40,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 | 20/11/2022 | 1.0 | Documentando a sprint 0 | João Pedro e Eduardo |
+| 20/11/2022 | 1.1 | Atualização do link do Pull request da issue 13 | João Pedro e Eduardo |
