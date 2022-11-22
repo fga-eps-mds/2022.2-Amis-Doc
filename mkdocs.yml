@@ -1,9 +1,9 @@
 site_name: Franquia Social
-# theme:
-#     name: material
-#     language: pt
-#     features:
-#         - navigation.tabs
+theme:
+    name: material
+    language: pt
+    features:
+        - navigation.tabs
 
 nav:
     - Home: index.md
