@@ -14,14 +14,14 @@ Foram criadas 3 personas para este produto, conforme mostram as imagens a seguir
 
 ![Persona 1](../assets/persona1.png)
 
-### **Persona 1:** Joana
+### **Persona 2:** Joana
 
 **Representa:**
 - Assistente Social
 
 ![Persona 2](../assets/persona2.png)
 
-### **Persona 1:** Maria
+### **Persona 3:** Maria
 
 **Representa:**
 - Usuário comum
