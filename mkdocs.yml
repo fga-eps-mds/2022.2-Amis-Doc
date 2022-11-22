@@ -8,9 +8,9 @@ theme:
 nav:
     - Home: index.md
     - Organização:
-       - Metodologia: Organizacao/metodologia.md
-       - Plano de Comunicação: Organizacao/plano_comunicacao.md
-       - Quadros de Conhecimentos: Organizacao/quadro_conhecimento.md
+        - Metodologia: Organizacao/metodologia.md
+        - Plano de Comunicação: Organizacao/plano_comunicacao.md
+        - Quadros de Conhecimentos: Organizacao/quadro_conhecimento.md
     - Visão de Produto:
         - Lean Inception: Visao_Produto/lean_inception.md
         - Visão de Produto: Visao_Produto/visao_pd.md
