@@ -41,4 +41,4 @@
 |------|--------|-----------|-----------|
 | 20/11/2022 | 1.0 | Documentando a sprint 0 | João Pedro e Eduardo |
 | 20/11/2022 | 1.1 | Atualização do link do Pull request da issue 13 | João Pedro e Eduardo |
-| 22/11/2022 | 1.2 | Atualização do link do Pull request da issue 13 | João Pedro |
+| 22/11/2022 | 1.2 | Atualização do estado das issues ao final da sprint | João Pedro |
