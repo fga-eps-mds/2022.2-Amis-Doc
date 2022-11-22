@@ -7,22 +7,10 @@ theme:
 
 nav:
     - Home: index.md
-    - Arquitetura: 
-        - Arquitetura: Arquitetura/arquitetura.md
-    - Backlog: Backlog/backlog.md
-    - Custo e Risco: 
-        - Custo: Custo_Risco/custo.md
-        - Risco: Custo_Risco/risco.md
-    - EVM: 
-        - EVM: EVM/evm.md
-    - Guia de Contribuição: 
-        - Guia de Contribuição: Guia_Contribuicao/guia_contribuicao.md  
     - Organização:
        - Metodologia: Organizacao/metodologia.md
        - Plano de Comunicação: Organizacao/plano_comunicacao.md
        - Quadros de Conhecimentos: Organizacao/quadro_conhecimento.md
-    - Sprints e Releases:
-        - Sprint 0: Sprints_Releases/sprint0.md
     - Visão de Produto:
         - Lean Inception: Visao_Produto/lean_inception.md
         - Visão de Produto: Visao_Produto/visao_pd.md
@@ -34,6 +22,18 @@ nav:
         - Revisão Técnica, de Negócio e de UX: Visao_Produto/revisao_tecnica.md
         - Sequenciador: Visao_Produto/sequenciador.md
         - Canvas MVP: Visao_Produto/canvas_mvp.md
+    - Backlog: Backlog/backlog.md
+    - Arquitetura: 
+        - Arquitetura: Arquitetura/arquitetura.md
+    - Custo e Risco: 
+        - Custo: Custo_Risco/custo.md
+        - Risco: Custo_Risco/risco.md
     - Visual:
         - Protótipo de Alta Fidelidade: Visual/prototipo_alta.md
         - Protótipo de Baixa Fidelidade: Visual/prototipo_baixa.md
+    - EVM: 
+        - EVM: EVM/evm.md
+    - Sprints e Releases:
+        - Sprint 0: Sprints_Releases/sprint0.md
+    - Guia de Contribuição: 
+        - Guia de Contribuição: Guia_Contribuicao/guia_contribuicao.md  
