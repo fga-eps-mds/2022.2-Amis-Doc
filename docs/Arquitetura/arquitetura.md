@@ -20,6 +20,12 @@ Para o desenvolvimento do sistema, foi escolhida a arquitetura de microsserviço
 - Padronização no design, na comunicação e integração com o banco de dados, API, frontend e backend.
 - Facilitar uma futura implementação mobile.
 
+### Restrições:
+- Necessidade de conexão à internet.
+- Necessidade de conexão ao banco de dados.
+- Necessidade de conexão à API.
+- Necessidade de rodar em um navegador web.
+
 ## Tecnologias
 
 | React JS | FastAPI | MySQL | Docker | Gráficos | Heroku | ReportLab |
@@ -37,11 +43,31 @@ Para o back-end, escolhemos o FastAPI. Este framework é útil na criação de A
 
 Como gerenciador de banco de dados, escolhemos o MySQL. SQL, primeiramente, é uma linguagem de comunicação com bancos de dados relacionais, que possibilita a realização de consultas, inserções, edições e exclusões de dados em tabelas estruturadas. O MySQL é um sistema de gerenciamento de bancos de dados relacionais, baseado em SQL. Escolhemos o MySQL por conta da sua ampla compatibilidade, além de sua facilidade de instalação e variedade de configurações, tem uma ótima performance e escalabilidade.
 
+### Ambiente: Docker
+
+Como ambiente de virtualização, escolhemos o Docker. Ele facilita a criação, administração e compartilhamento de ambientes isolados, permitindo o empacotamento de uma aplicação, ambiente ou sistema operacional dentro de um container, tornando-se portátil para outro host que tenha o Docker instalado. Entre suas vantagens se encontra a economia de recursos, caso comparado a máquinas virtuais. Portanto, o Docker permite uma maior portabilidade e eficiência na produção da aplicação para o time de desenvolvimento.
+
+### Gráficos: Visx
+
+Para a biblioteca de gráficos foi escolhida a Visx. A Visx é um conjunto de vários pacotes do React, o que possibilita a utilização somente dos pacotes necessários. Ela também apresenta um alto nível de customização dos gráficos que se deseja criar e é baseada em React, portanto utiliza padrões similares do resto do projeto.
+
+### PDFs: ReportLab
+
+A biblioteca ReportLab será encarregada da geração de PDFs no projeto. A ReportLab é Open Source e uma das mais rápidas e performáticas bibliotecas para a geração de PDFs, mais rápida até que soluções disponíveis para desktop nativo.
+
+### Hospedagem: Heroku
+
+Para o deploy, escolhemos a plataforma cloud Heroku. O Heroku é uma plataforma baseada em containers na nuvem (PaaS), utilizado para fazer deploy, manutenção e escalar aplicações. Além disso, a plataforma é fácil de ser usada e permite organizar as várias partes do sistema separadamente e também integrá-las.
+
 ## Referências
 
 - [The Best Guide to Know What Is React](https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs)
 
 - [FastAPI](https://fastapi.tiangolo.com/)
+
+- [Docker](https://docs.docker.com/get-started/overview)
+
+- [Visx](https://airbnb.io/visx)
 
 ## Versionamento
 
@@ -49,3 +75,4 @@ Como gerenciador de banco de dados, escolhemos o MySQL. SQL, primeiramente, é u
 |------|--------|-----------|-----------|
 | 26/11/2022 | 0.1 | Criação do documento (Visão geral, Representação e Tecnologias) | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred), [Fabrício](https://github.com/FabricioDeQueiroz) e [Kalebe](https://github.com/KalebeLopes) |
 | 26/11/2022 | 0.2 | Adição das Metas e definições das Tecnologias | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred) e [Fabrício](https://github.com/FabricioDeQueiroz) |
+| 26/11/2022 | 0.3 | Adição das Restrições e definições das Tecnologias | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred) e [Fabrício](https://github.com/FabricioDeQueiroz) |
