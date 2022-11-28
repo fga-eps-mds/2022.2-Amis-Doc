@@ -6,6 +6,7 @@
 - Definir padrões de commits, issues e pull requests (Git Flow) visando à eficiência organizacional da equipe;
 - Esclarecer e documentar a arquitetura que será utilizada no projeto de software;
 - Configurar ferramentas de front e back-end para o bom funcionamento do projeto.
+
 # Planejamento
 
 **Inicio:** 21/11/2022</br>
