@@ -24,7 +24,7 @@
 
 # Review
 
-| Número da issue | Pull Request(s) | Situação ao final da Sprint | Responsáveis |
+| Número da issue | Pull Requests | Situação ao final da Sprint | Responsáveis |
 | ---- | ---- | ---- | ---- |
 | [#27](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/27) | . | Em progresso | [Eduardo](https://github.com/fxred) e [Paulo Borba](https://github.com/paulohborba)| 
 | [#28](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/28) | . | Em progresso | [Kalebe](https://github.com/KalebeLopes), [Fabrício](https://github.com/FabricioDeQueiroz) e [Eduardo](https://github.com/fxred)|
