@@ -30,7 +30,6 @@ nav:
         - Risco: Custo_Risco/risco.md
     - Visual:
         - Protótipo de Alta Fidelidade: Visual/prototipo_alta.md
-        - Protótipo de Baixa Fidelidade: Visual/prototipo_baixa.md
     - EVM: 
         - EVM: EVM/evm.md
     - Sprints e Releases:
