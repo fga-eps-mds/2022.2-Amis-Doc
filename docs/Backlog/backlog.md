@@ -10,7 +10,7 @@ O backlog contêm os itens ordenados que serão desenvolvidos pelo time para o p
 
 No contexto do produto, o Product Backlog foi divido em: Épicos e User Stories. Foram definidos 4 épicos como o MVP do projeto e 11 User Stories. O artefato pode ser visualizado a seguir.
 
-![Backlog](../assets/backlog_1.0.png)
+![Backlog](../assets/backlog_1.1.png)
 
 [Link do Backlog](https://docs.google.com/spreadsheets/d/17Bi-MHd1MYtOc6bwy8qAHqQTlhrCao5arH_KqRKX1n4/edit#gid=877927985)
 
