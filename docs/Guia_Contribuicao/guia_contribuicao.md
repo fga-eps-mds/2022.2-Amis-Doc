@@ -20,7 +20,7 @@ O Guia de Contribuição é um documento que visa ensinar como participar deste 
 
 *  Criar uma branch com o numero_issue-nome_issue  
 
-    ```git
+    ```
     git checkout -b 12-bug_fixed
     ```
 
