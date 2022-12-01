@@ -32,13 +32,13 @@ O Guia de Contribuição é um documento que visa ensinar como participar deste 
 
     Adicionando uma única modificação ao commit:
 
-    ```shell
+    ```
     git add caminho/arquivo.txt
     ```
 
     Você pode adicionar todos os arquivos usando:
 
-    ```shell
+    ```
     git add .
     ```
 
@@ -47,13 +47,13 @@ O Guia de Contribuição é um documento que visa ensinar como participar deste 
 
 *   O Commit deve ser (#numero_issue): descrição.  
 
-    ```shell
+    ```
     git commit -m "(#12): Correção de um bug"
     ```
 
 *  Realize o push para a branch em que está sendo desenvolvida essa issue:
 
-    ```shell
+    ```
     git push origin branch-nome
     ```
 
