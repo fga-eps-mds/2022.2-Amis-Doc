@@ -8,6 +8,10 @@ Este documento visa estabelecer o escopo da arquitetura de software que será ut
 
 Para o desenvolvimento do sistema, foi escolhida a arquitetura de Cliente/Servidor. Esta é uma abordagem onde o software é dividido entre Front-end e Back-end, que se comportam como serviços independentes e se comunicam através de APIs REST. Algumas de suas características são: Sempre espera por um pedido de um cliente, Atende os pedidos e, em seguida, responde aos clientes com os dados solicitados e Interagem diretamente com os usuários finais através de qualquer interface com o usuário.
 
+## Representação da Arquitetura
+
+![Representação da Arquitetura](../assets/arquitetura.jpeg)
+
 O Back-end será composto por pacotes que representam os épicos do nosso backlog, que estão listados a seguir:
 
 - **Cadastro:** Responsável pelo CRUD dos dados que compoem o sistema, como alunas, turmas, receitas, etc.
@@ -64,6 +68,53 @@ A biblioteca ReportLab será encarregada da geração de PDFs no projeto. A Repo
 
 Para o deploy, escolhemos a plataforma cloud Azure. O Azure é uma plataforma utilizada para fazer deploy, manutenção e escalar aplicações. Além disso, a plataforma é fácil de ser usada e permite organizar as várias partes do sistema separadamente e também integrá-las.
 
+## Visão de Casos de Uso
+O diagrama de caso de uso resume os detalhes dos usuários da aplicação, que também são conhecidos como atores, e as interações deles com o sistema.
+
+### Casos de uso
+* Cadastrar administrador;
+* Cadastrar Assistente;
+* Cadastrar Turma;
+* Cadastrar aluno na turma;
+* Cadastrar dados do aluno;
+* Cadastrar Receitas;
+* Fazer Login;
+* Fazer Logout;
+* Visualizar dados de alunos;
+* Visualizar dados de turmas;
+* Visualizar Receitas;
+* Visualizar dados de pessoas impactadas;
+* Exportar relatório de alunos;
+* Exportar relatório de prestação de conta.
+
+### Atores
+* Administrador: Usuário do sistema que possui todas as permissões, pode acessar a área logada e também consegue visualizar/manipular todos os dados inseridos na aplicação. Responsável por gerenciar os Assistentes/Usuários.
+
+* Assistente: Usuário do sistema que possui algumas permissões, pode acessar determidadas funcionalidades, incluindo a área logada. Responsável por auxiliar o Administrador.
+
+* Usuários: Possui acesso a área não logada da aplicação e pode visualizar receitas públicas previamente cadastradas pelo Administrador.
+
+### Diagrama de caso de uso
+![Caso de Uso](../assets/useCase.jpeg)
+
+## Visão de Dados
+ À partir do banco de dados MySql, será possível armazenar os dados dos alunos(as) e das turmas, além de permitir guardar todas as receitas utilizadas para a produção dos produtos.
+
+ A figura a seguir mostra o Modelo Conceitual (Entidade - Relacionamento) elaborado para atender as necessidades do sistema:
+![Conceitual](../assets/conceitual.jpeg)
+
+As entidades são:
+* ASSISTENTE;
+* ALUNO;
+* TELEFONE;
+* TURMA;
+* RECEITA;
+* IMAGEM; 
+* INGREDIENTE.
+
+Que, numa visão lógica, são representadas por: 
+![Logico](../assets/logico.jpeg)
+
 ## Referências
 
 - [The Best Guide to Know What Is React](https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs)
@@ -74,6 +125,8 @@ Para o deploy, escolhemos a plataforma cloud Azure. O Azure é uma plataforma ut
 
 - [Visx](https://airbnb.io/visx)
 
+- [MER](https://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5423-2010-1/Aulas/02-MER.pdf)
+
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
@@ -81,4 +134,5 @@ Para o deploy, escolhemos a plataforma cloud Azure. O Azure é uma plataforma ut
 | 26/11/2022 | 0.1 | Criação do documento (Visão geral, Representação e Tecnologias) | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred), [Fabrício](https://github.com/FabricioDeQueiroz) e [Kalebe](https://github.com/KalebeLopes) |
 | 26/11/2022 | 0.2 | Adição das Metas e definições das Tecnologias | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred) e [Fabrício](https://github.com/FabricioDeQueiroz) |
 | 26/11/2022 | 0.3 | Adição das Restrições e definições das Tecnologias | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred) e [Fabrício](https://github.com/FabricioDeQueiroz) |
-| 05/12/2022 | 0.4 | Alteção das definições de arquitetura | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Kalebe](https://github.com/KalebeLopes) |
+| 05/12/2022 | 0.4 | Alteração das definições de arquitetura | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Kalebe](https://github.com/KalebeLopes) |
+| 05/12/2022 | 0.5 | Adição dos diagramas | [Kalebe](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta) |
