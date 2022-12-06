@@ -1,4 +1,4 @@
-# Sprint 2
+# Semana 2
 
 # Objetivo
 
@@ -23,7 +23,7 @@
 | [#33](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/33) | Documentar EAP | Amis-DOC | [Kalebe](https://github.com/KalebeLopes), [João Vitor](https://github.com/Jvsoutomaior) e [Gabriela](https://github.com/gabrielapivetta)|
 | [#36](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/36) | Documento de qualidade | Amis-DOC | [Caio](https://github.com/CaioSulz) e [Italo](https://github.com/ItaloBrunoM)|
 | [#37](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/37) | Configuração do ambiente de Homologação | Amis-DOC | [João Pedro](https://github.com/jps12),  [Thiago](https://github.com/thiagolsg) e [André](https://github.com/andrelucasf) |
-| [#39](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/39) | Sprint 2 | Amis-DOC |  [Caio](https://github.com/CaioSulz) e [Paulo Borba](https://github.com/paulohborba) |
+| [#39](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/39) | Semana 2 | Amis-DOC |  [Caio](https://github.com/CaioSulz) e [Paulo Borba](https://github.com/paulohborba) |
 | [#41](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/41) | [BUG] Erro de digitação no Guia de Contribuição | Amis-DOC |  [João Vitor](https://github.com/Jvsoutomaior) |
 
 # Review
