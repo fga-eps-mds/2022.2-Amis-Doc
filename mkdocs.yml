@@ -35,6 +35,7 @@ nav:
     - EVM: 
         - EVM: EVM/evm.md
     - Sprints e Releases:
-        - Sprint 0: Sprints_Releases/sprint0.md
+        - Semana 0: Sprints_Releases/semana0.md
+        - Semana 1: Sprints_Releases/semana1.md
     - Guia de Contribuição: 
         - Guia de Contribuição: Guia_Contribuicao/guia_contribuicao.md  
