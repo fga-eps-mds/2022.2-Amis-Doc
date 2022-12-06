@@ -1,4 +1,4 @@
-# Sprint 1
+# Semana 1
 
 # Objetivo
 
@@ -15,7 +15,7 @@
 | Número da Issue | Issue | Repositório | Responsáveis |
 | ---- | ---- | ---- | ---- |
 | [#18](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/18) | Dojo de backend | Amis-DOC | [João Pedro](https://github.com/jps12) e [Thiago](https://github.com/thiagolsg)|
-| [#27](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/27) | Documentar a sprint 1 | Amis-DOC | [Eduardo](https://github.com/fxred) e [Paulo](https://github.com/paulohborba)|
+| [#27](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/27) | Documentar a semana 1 | Amis-DOC | [Eduardo](https://github.com/fxred) e [Paulo](https://github.com/paulohborba)|
 | [#28](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/28) | Documento de arquitetura | Amis-DOC | [Kalebe](https://github.com/KalebeLopes), [Fabrício](https://github.com/FabricioDeQueiroz) e [Eduardo](https://github.com/fxred)|
 | [#29](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/29) | Guia de contribuição | Amis-DOC | [Thiago](https://github.com/thiagolsg) e [Caio](https://github.com/CaioSulz)|
 | [#31](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/31) | Protótipo de baixa fidelidade | Amis-DOC | [André](https://github.com/andrelucasf) e [Italo](https://github.com/ItaloBrunoM)|
@@ -24,7 +24,7 @@
 
 # Review
 
-| Número da issue | Pull Requests | Situação ao final da Sprint | Responsáveis |
+| Número da issue | Pull Requests | Situação ao final da semana | Responsáveis |
 | ---- | ---- | ---- | ---- |
 | [#18](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/18) | Sem pull request associado | Concluída | [João Pedro](https://github.com/jps12) e [Thiago](https://github.com/thiagolsg)|
 | [#27](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/27) | [#43](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/43) | Em revisão | [Eduardo](https://github.com/fxred) e [Paulo Borba](https://github.com/paulohborba)| 
@@ -38,6 +38,6 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 28/11/2022 | 1.0 | Documentando a sprint 1 | [Paulo](https://github.com/paulohborba) e [Eduardo](https://github.com/fxred) |
+| 28/11/2022 | 1.0 | Documentando a semana 1 | [Paulo](https://github.com/paulohborba) e [Eduardo](https://github.com/fxred) |
 | 28/11/2022 | 1.1 | Atualização de documento | [Paulo](https://github.com/paulohborba) e [Eduardo](https://github.com/fxred) |
 | 01/12/2022 | 1.2 | Atualização da seção review com novas informações | [Eduardo](https://github.com/fxred) |
