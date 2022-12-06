@@ -1,4 +1,4 @@
-# Sprint 0
+# Semana 0
 
 # Objetivo
 
@@ -14,7 +14,7 @@
 | ---- | ---- | ---- | ---- |
 | [#11](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/11) | Plano de Comunicação | Amis-DOC | [Thiago](https://github.com/thiagolsg) e [Paulo](https://github.com/paulohborba)|
 | [#12](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/12) | Metodologia | Amis-DOC | [Thiago](https://github.com/thiagolsg) e [Caio](https://github.com/CaioSulz)|
-| [#13](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/13) | Documentar a Sprint 0 | Amis-DOC | [João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred)|
+| [#13](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/13) | Documentar a semana 0 | Amis-DOC | [João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred)|
 | [#14](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/14) | Documentação do Lean Inception | Amis-DOC | [Gabriela](https://github.com/gabrielapivetta) e [Italo](https://github.com/ItaloBrunoM)|
 | [#15](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/15) | Backlog do Produto | Amis-DOC | [André](https://github.com/andrelucasf), [Kalebe](https://github.com/KalebeLopes), [João Vitor](https://github.com/Jvsoutomaior) e [Fabrício](https://github.com/FabricioDeQueiroz)|
 | [#16](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/16) | Dojo de Banco de Dados | Amis-DOC | [Kalebe](https://github.com/KalebeLopes) e [Gabriela](https://github.com/gabrielapivetta)|
@@ -23,7 +23,7 @@
 
 # Review
 
-| Numero da issue | Pull Request(s) | Situação ao final da Sprint | Responsáveis |
+| Numero da issue | Pull Request(s) | Situação ao final da semana | Responsáveis |
 | ---- | ---- | ---- | ---- |
 | [#11](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/11) | Sem pull request associado | Concluída | [Thiago](https://github.com/thiagolsg) e [Paulo](https://github.com/paulohborba)|
 | [#12](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/12) | Sem pull request associado | Concluida | [Thiago](https://github.com/thiagolsg) e [Caio](https://github.com/CaioSulz)|
@@ -39,6 +39,6 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 20/11/2022 | 1.0 | Documentando a sprint 0 | João Pedro e Eduardo |
+| 20/11/2022 | 1.0 | Documentando a semana 0 | João Pedro e Eduardo |
 | 20/11/2022 | 1.1 | Atualização do link do Pull request da issue 13 | João Pedro e Eduardo |
-| 22/11/2022 | 1.2 | Atualização do estado das issues ao final da sprint | João Pedro |
+| 22/11/2022 | 1.2 | Atualização do estado das issues ao final da semana | João Pedro |
