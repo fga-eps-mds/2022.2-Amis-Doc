@@ -38,7 +38,7 @@
 | [#36](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/36) | [#46](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/46) | Concluída | [Caio](https://github.com/CaioSulz) e [Italo](https://github.com/ItaloBrunoM)|
 | [#37](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/37) | Sem pull request associado | Concluída | [André](https://github.com/andrelucasf), [João Pedro](https://github.com/jps12) e [Thiago](https://github.com/thiagolsg)|
 | [#39](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/39) | [#58](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/58) | Concluída | [Caio](https://github.com/CaioSulz) e [Paulo](https://github.com/paulohborba)|
-| [#41](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/41) | [#44](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/44) | Concluída | [João Vitor](https://github.com/Jvsoutomaior)|
+| [#41](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/41) | [#44](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/44) | Concluída | [João Vitor](https://github.com/Jvsoutomaior)
 
 ## Versionamento
 
@@ -46,3 +46,4 @@
 |------|--------|-----------|-----------|
 | 04/12/2022 | 1.0 | Criação do documento, planejamento e objetivo | [Caio](https://github.com/CaioSulz) e [Paulo](https://github.com/paulohborba) |
 | 04/12/2022 | 1.1 | Adição do review | [Caio](https://github.com/CaioSulz) e [Paulo](https://github.com/paulohborba) |
+| 06/12/2022 | 1.2 | Atualização do review | [Caio](https://github.com/CaioSulz) e [Paulo](https://github.com/paulohborba) |
