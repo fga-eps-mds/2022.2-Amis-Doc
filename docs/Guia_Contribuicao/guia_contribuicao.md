@@ -57,9 +57,25 @@ O Guia de Contribuição é um documento que visa ensinar como participar deste 
     git push origin branch-nome
     ```
 
-*  Submeta um pull request:
+*  Submeta um novo pull request:
 
-  Após a conclusão da issue, realize um pull request para a branch dev do repositório original, colocando comentários e se possível prints das mudanças realizadas. Por fim, fecha-se a issue relacionada a este pull request.
+  ![Tutorial Pull Request](../assets/tutorial_pr1.png)
+
+  * Primeiro certifique-se que a branch "dev" esteja selecionada para o pull request, **todo pull request deve ir para a branch dev**. Depois disso clique em "Criar pull request".
+
+  ![Tutorial Pull Request](../assets/tutorial_pr2.png)
+
+  * Certifique-se de preencher o template do pull request com o título, descrição, mudanças, screenshots e issue. Por fim, crie o pull request.
+
+  ![Tutorial Pull Request](../assets/tutorial_pr3.png)
+
+
+
+
+
+
+
+
 
 
 ## Versionamento
@@ -67,3 +83,4 @@ O Guia de Contribuição é um documento que visa ensinar como participar deste 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |23/11/2022|1.0|Elaboração do Guia de Contribuição|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
+|06/12/2022|1.1|Complemento do tutorial de Pull Request|[Caio Sulz](https://github.com/CaioSulz)|
