@@ -24,8 +24,8 @@ nav:
         - Canvas MVP: Visao_Produto/canvas_mvp.md
     - Backlog: Backlog/backlog.md
     - Arquitetura e Qualidade: 
-        - Arquitetura: Arquitetura/arquitetura.md
-        - Qualidade: Arquitetura/qualidade.md
+        - Arquitetura: Arquitetura_Qualidade/arquitetura.md
+        - Qualidade: Arquitetura_Qualidade/qualidade.md
     - Custo e Risco: 
         - Custo: Custo_Risco/custo.md
         - Risco: Custo_Risco/risco.md
