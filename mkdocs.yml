@@ -23,8 +23,9 @@ nav:
         - Sequenciador: Visao_Produto/sequenciador.md
         - Canvas MVP: Visao_Produto/canvas_mvp.md
     - Backlog: Backlog/backlog.md
-    - Arquitetura: 
-        - Arquitetura: Arquitetura/arquitetura.md
+    - Arquitetura e Qualidade: 
+        - Arquitetura: Arquitetura_Qualidade/arquitetura.md
+        - Qualidade: Arquitetura_Qualidade/qualidade.md
     - Custo e Risco: 
         - Custo: Custo_Risco/custo.md
         - Risco: Custo_Risco/risco.md
@@ -33,6 +34,8 @@ nav:
     - EVM: 
         - EVM: EVM/evm.md
     - Sprints e Releases:
-        - Sprint 0: Sprints_Releases/sprint0.md
+        - Semana 0: Sprints_Releases/semana0.md
+        - Semana 1: Sprints_Releases/semana1.md
+        - Semana 2: Sprints_Releases/semana2.md
     - Guia de Contribuição: 
         - Guia de Contribuição: Guia_Contribuicao/guia_contribuicao.md  
