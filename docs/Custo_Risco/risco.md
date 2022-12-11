@@ -1,20 +1,28 @@
 # Risco
+## Introdução
+O objetivo deste documento é identificar as principais categorias de riscos do projeto, suas consequências e também as medidas necessárias para reduzir ao máximo sua ocorrência.
 
-## Riscos Externos
+## Estrutura Analítica de Riscos
+A Estrutura Analítica de Riscos é uma representação hierárquica dos riscos, de acordo com suas categorias de riscos.
+
+![EAR](../assets/ear.png)
+
+## Descrição dos Riscos da Estrutura analítica de Riscos
+### Riscos Externos
 | Id | Risco | Consequência | Contigência | 
 |------|--------|-----------|-----------|
 |   R1  |  Indisponibilidade do cliente para validar os artefatos  |  Dificuldade em seguir com a criação dos documentos do projeto e possibilidade de refazer documentos feitos sem a validação |  Adequar as datas das reuniões de acordo com a disponibilidade do cliente  |
 |   R2  |  Atraso do cliente em repassar informações  |  Dificuldade em seguir com o desenvolvimento do sistema e possibilidade de refazer códigos feitos sem a validação  |  Adequar as datas das reuniões de acordo com a disponibilidade do cliente  |
 |   R3  |  Saúde/Fatores Pessoais  |  Atraso nas entregas, falta nas reuniões e, consequentemente, desatualização do andamento do projeto  |  Deixar toda a equipe ciente de todas as atividades que estão sendo realizadas por cada sub-equipe  |
 
-## Riscos Organizacionais
+### Riscos Organizacionais
 | Id | Risco | Consequência | Contigência | 
 |------|--------|-----------|-----------|
 |   R4  |  Desistência de Membros  |  Sobrecarga da equipe e diminuição do volume de entrega  |  Manter os membros engajados  |
 |   R5  |  Atrasos nas entregas  |  Insatisfação do cliente em não receber o produto proposto  |  Realizar um bom planejamento do projeto  |
 |   R6  |  Falta de Recursos Físicos/Tecnológicos  |  Atraso nas entregas por falta/problemas nos computadores, internet, ambiente de homologação, ambiente de produção  |  Obter recursos financeiros para cobrir as despesas obrigatórias  |
 
-## Riscos Técnicos
+### Riscos Técnicos
 | Id | Risco | Consequência | Contigência | 
 |------|--------|-----------|-----------|
 |   R7  |  Conhecimento das Tecnologias  |  Dificuldade em codificar as atividades designadas  |  Realizar treinamentos das tecnologias com toda a equipe  |
@@ -23,7 +31,7 @@
 |   R10  |  Arquitetura mal definida  |  Problemas com a escalabilidade da aplicação  |  Pesquisar e definir a melhor arquitetura que atenda ao projeto  |
 |   R11  |  Baixa Qualidade de Código  |  Baixa cobertura de testes, códigos mal escritos e muito acoplados devido ao curto prazo de desenvolvimento  |  Definir bem os prazos para o desenvolvimento de cada feature e também de seus testes  |
 
-## Riscos de Gerenciamento
+### Riscos de Gerenciamento
 | Id | Risco | Consequência | Contigência | 
 |------|--------|-----------|-----------|
 |   R12  |  Definição de Prazos  |  Erros nas definições de prazos impactam diretamente nas entregas  |  Estimar, juntamente com toda a equipe, o tempo x esforço necessário para a conclusão de cada atividade |
@@ -35,3 +43,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 |  10/12/2022   |  0.1  | Criação do documento de riscos e definição dos riscos | [Kalebe Lopes](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabricio de Queiroz](https://github.com/FabricioDeQueiroz) |
+|  11/12/2022   |  0.2  | Adição da introdução e do diagrama do EAR | [Kalebe Lopes](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabricio de Queiroz](https://github.com/FabricioDeQueiroz) |
