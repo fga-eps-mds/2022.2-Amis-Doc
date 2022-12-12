@@ -39,7 +39,7 @@ Cadastro de Alunas
 
 ![Prototipo de Alta Fidelidade](../assets/PrototipoAlta_relatorio.jpg)
 
-Aqui é uma ideia de como será a pegina contendo dados em geral.
+Aqui é uma ideia de como será a página contendo dados em geral.
 
 ## Turmas
 
