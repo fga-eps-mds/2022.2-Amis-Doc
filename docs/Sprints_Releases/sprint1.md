@@ -60,7 +60,7 @@
 |[#52](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/52)|[#5](https://github.com/fga-eps-mds/2022.2-Amis-Front/pull/5)| Concluida |[André Lucas](https://github.com/andrelucasf),  [João Vítor](https://github.com/Jvsoutomaior),  e [Caio Sulz](https://github.com/CaioSulz)|
 |[#53](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/53)|[#5](https://github.com/fga-eps-mds/2022.2-Amis-Service/pull/7)| Concluida |[Kalebe Lopes](https://github.com/KalebeLopes),  [Italo Bruno](https://github.com/ItaloBrunoM), [Thiago Luiz](https://github.com/thiagolsg) e [Eduardo F. Aquino](https://github.com/fxred)|
 |[#54](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/54)|[#4](https://github.com/fga-eps-mds/2022.2-Amis-Front/pull/4)| Concluida |[Gabriela Pivetta](https://github.com/gabrielapivetta),  [Paulo Borba](https://github.com/paulohborba) e [Fabrício de Queiroz](https://github.com/FabricioDeQueiroz)|
-|[#56](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/56)|Sem pull request associado||[Italo Bruno](https://github.com/ItaloBrunoM) e  [João Vítor](https://github.com/Jvsoutomaior) |
+|[#56](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/56)|[#80](https://github.com/fga-eps-mds/2022.2-Amis-Front/pull/80)||[Italo Bruno](https://github.com/ItaloBrunoM) e  [João Vítor](https://github.com/Jvsoutomaior) |
 
 ## Versionamento
 
