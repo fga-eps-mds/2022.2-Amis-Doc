@@ -45,7 +45,7 @@
 
 
 # Review
-#### Imagens temporárias do burndown e velocity
+#### Gráficos Burndown e velocity
 ![Burndown](../assets/burndown.png)
 
 ![Velocity](../assets/velocity.png)
@@ -70,3 +70,4 @@
 | 11/12/2022 | 1.1| Adição tabela de issue e tabela da equipe | [João Vítor](https://github.com/Jvsoutomaior) |
 | 11/12/2022 | 1.2 | Adição tabela da situação final e imagens do burndown e velocity | [Italo Bruno](https://github.com/ItaloBrunoM) |
 | 12/12/2022 | 1.3 | Adição dos pull request | [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 12/12/2022 | 1.4 | Atualozação dos Gráficos de velocity e burndown | [Italo Bruno](https://github.com/ItaloBrunoM) |
