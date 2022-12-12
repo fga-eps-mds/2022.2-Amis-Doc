@@ -1,9 +1,9 @@
 # Risco
 ## Introdução
-O objetivo deste documento é identificar as principais categorias de riscos do projeto, suas consequências e também as medidas necessárias para reduzir ao máximo sua ocorrência.
+O objetivo deste documento é identificar as principais categorias de riscos do projeto, suas consequências e também as medidas necessárias para reduzir ao máximo suas ocorrências.
 
 ## Estrutura Analítica de Riscos
-A Estrutura Analítica de Riscos é uma representação hierárquica dos riscos, de acordo com suas categorias de riscos.
+A Estrutura Analítica de Riscos é uma representação hierárquica dos riscos, de acordo com suas subcategorias.
 
 ![EAR](../assets/ear.png)
 
@@ -38,9 +38,27 @@ A Estrutura Analítica de Riscos é uma representação hierárquica dos riscos,
 |   R13  |  Mudança de escopo  |  Acarreta em um retrabalho não planejado que pode resultar em um atraso nas entregas  |  Definir bem o escopo do projeto juntamente ao cliente  |
 |   R14  |  Falta de Comunicação  |  Resulta em uma falta de orientação dos membros da equipe em relação ao projeto |  Realizar reuniões constantes para informar o andamento das atividades e documentar as decisões do projeto  |
 
+## Visualização de Riscos
+
+### Classificação dos Riscos
+
+A classificação dos riscos é definida a partir de uma pontuação que leva em consideração a multiplicação do impacto de tal risco acontecer, pelo impacto que ele causa ao projeto. Considerando valores de 1 a 5, a classificação de risco é definida da seguinte forma: 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlARRKofTOnb_tfq_ncaMg2NLhdKnL4X1uNlX-nNLQJrgDPK1VCsKq7IDl5_IEebpv-N3RfshPGpmS/pubhtml?gid=1708200459&amp;single=true&amp;widget=true&amp;headers=false"; height=190px; width=700px></iframe>
+
+[Link](https://docs.google.com/spreadsheets/d/1JbEsUp3hr2t1pKmjFd_9JJDle22Auj4BdXFq1jWK4fI/edit#gid=1708200459)
+
+### Quadro de Riscos
+
+Abaixo segue o quadro de riscos, onde é realizado uma estimativa da probabilidade e impacto de cada risco listado no projeto:
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlARRKofTOnb_tfq_ncaMg2NLhdKnL4X1uNlX-nNLQJrgDPK1VCsKq7IDl5_IEebpv-N3RfshPGpmS/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"; height=410px; width=700px></iframe>
+
+[Link](https://docs.google.com/spreadsheets/d/1JbEsUp3hr2t1pKmjFd_9JJDle22Auj4BdXFq1jWK4fI/edit#gid=0)
 ## Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 |  10/12/2022   |  0.1  | Criação do documento de riscos e definição dos riscos | [Kalebe Lopes](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabricio de Queiroz](https://github.com/FabricioDeQueiroz) |
 |  11/12/2022   |  0.2  | Adição da introdução e do diagrama do EAR | [Kalebe Lopes](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabricio de Queiroz](https://github.com/FabricioDeQueiroz) |
+|  12/12/2022   |  1.0  | Adição das tabelas de visualização de riscos | [Kalebe Lopes](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo Ferreira](https://github.com/fxred), [Fabricio de Queiroz](https://github.com/FabricioDeQueiroz) | 
