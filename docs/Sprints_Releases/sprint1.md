@@ -54,12 +54,12 @@
 
 | Número da issue | Pull Requests | Situação ao final da Sprint | Responsáveis |
 | ---- | ---- | ---- | ---- |
-|[#31](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/31)|Sem pull request associado||[André Lucas](https://github.com/andrelucasf),  [João Vítor](https://github.com/Jvsoutomaior) e [Paulo Borba](https://github.com/paulohborba)|
-|[#49](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/49)|Sem pull request associado||[João Pedro](https://github.com/jps12),  [Paulo Borba](https://github.com/paulohborba) e [Caio Sulz](https://github.com/CaioSulz) |
-|[#50](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/50)|Sem pull request associado||[Kalebe Lopes](https://github.com/KalebeLopes),  [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) e [Eduardo F. Aquino](https://github.com/fxred)|
-|[#52](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/52)|Sem pull request associado||[André Lucas](https://github.com/andrelucasf),  [João Vítor](https://github.com/Jvsoutomaior),  e [Caio Sulz](https://github.com/CaioSulz)|
-|[#53](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/53)|Sem pull request associado||[Kalebe Lopes](https://github.com/KalebeLopes),  [Italo Bruno](https://github.com/ItaloBrunoM), [Thiago Luiz](https://github.com/thiagolsg) e [Eduardo F. Aquino](https://github.com/fxred)|
-|[#54](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/54)|Sem pull request associado||[Gabriela Pivetta](https://github.com/gabrielapivetta),  [Paulo Borba](https://github.com/paulohborba) e [Fabrício de Queiroz](https://github.com/FabricioDeQueiroz)|
+|[#31](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/31)|[#79](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/79)| Concluida |[André Lucas](https://github.com/andrelucasf),  [João Vítor](https://github.com/Jvsoutomaior) e [Paulo Borba](https://github.com/paulohborba)|
+|[#49](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/49)|Sem pull request associado| Concluida |[João Pedro](https://github.com/jps12),  [Paulo Borba](https://github.com/paulohborba) e [Caio Sulz](https://github.com/CaioSulz) |
+|[#50](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/50)|[#78](https://github.com/fga-eps-mds/2022.2-Amis-Doc/pull/78)| Concluida|[Kalebe Lopes](https://github.com/KalebeLopes),  [Gabriela Pivetta](https://github.com/gabrielapivetta), [Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) e [Eduardo F. Aquino](https://github.com/fxred)|
+|[#52](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/52)|[#5](https://github.com/fga-eps-mds/2022.2-Amis-Front/pull/5)| Concluida |[André Lucas](https://github.com/andrelucasf),  [João Vítor](https://github.com/Jvsoutomaior),  e [Caio Sulz](https://github.com/CaioSulz)|
+|[#53](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/53)|[#5](https://github.com/fga-eps-mds/2022.2-Amis-Service/pull/7)| Concluida |[Kalebe Lopes](https://github.com/KalebeLopes),  [Italo Bruno](https://github.com/ItaloBrunoM), [Thiago Luiz](https://github.com/thiagolsg) e [Eduardo F. Aquino](https://github.com/fxred)|
+|[#54](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/54)|[#4](https://github.com/fga-eps-mds/2022.2-Amis-Front/pull/4)| Concluida |[Gabriela Pivetta](https://github.com/gabrielapivetta),  [Paulo Borba](https://github.com/paulohborba) e [Fabrício de Queiroz](https://github.com/FabricioDeQueiroz)|
 |[#56](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/56)|Sem pull request associado||[Italo Bruno](https://github.com/ItaloBrunoM) e  [João Vítor](https://github.com/Jvsoutomaior) |
 
 ## Versionamento
@@ -69,3 +69,4 @@
 | 11/12/2022 | 1.0 | Criação do documento e Objetivo | [Italo Bruno](https://github.com/ItaloBrunoM) |
 | 11/12/2022 | 1.1| Adição tabela de issue e tabela da equipe | [João Vítor](https://github.com/Jvsoutomaior) |
 | 11/12/2022 | 1.2 | Adição tabela da situação final e imagens do burndown e velocity | [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 12/12/2022 | 1.3 | Adição dos pull request | [Italo Bruno](https://github.com/ItaloBrunoM) |
