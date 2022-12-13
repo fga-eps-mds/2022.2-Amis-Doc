@@ -10,7 +10,7 @@ O backlog contêm os itens ordenados que serão desenvolvidos pelo time para o p
 
 No contexto do produto, o Product Backlog foi divido em: Épicos e User Stories. Foram definidos 4 épicos como o MVP do projeto e 11 User Stories. O artefato pode ser visualizado a seguir.
 
-![Backlog](../assets/backlog_1.1.png)
+![Backlog](../assets/backlog_1.3.png)
 
 [Link do Backlog](https://docs.google.com/spreadsheets/d/17Bi-MHd1MYtOc6bwy8qAHqQTlhrCao5arH_KqRKX1n4/edit#gid=877927985)
 
@@ -18,4 +18,6 @@ No contexto do produto, o Product Backlog foi divido em: Épicos e User Stories.
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 20/11/2022 |  1.0 | Versão inicial do backlog do produto | André Lucas, Fabrício, Kalebe e João Vítor |
+| 20/11/2022 |  1.0 | Versão inicial do backlog do produto | [André Lucas](https://github.com/andrelucasf), [Fabrício](https://github.com/FabricioDeQueiroz), [Kalebe](https://github.com/KalebeLopes) e [João Vítor](https://github.com/Jvsoutomaior) |
+| 11/12/2022 |  1.1 | Correção de erros de digitação do backlog do produto | [Paulo](https://github.com/paulohborba) e [Caio](https://github.com/CaioSulz) |
+| 12/12/2022 |  1.2 | Correção de erros de digitação do backlog do produto | [Paulo](https://github.com/paulohborba) e [Caio](https://github.com/CaioSulz) |
