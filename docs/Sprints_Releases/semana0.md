@@ -39,6 +39,6 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 20/11/2022 | 1.0 | Documentando a semana 0 | João Pedro e Eduardo |
-| 20/11/2022 | 1.1 | Atualização do link do Pull request da issue 13 | João Pedro e Eduardo |
-| 22/11/2022 | 1.2 | Atualização do estado das issues ao final da semana | João Pedro |
+| 20/11/2022 | 1.0 | Documentando a semana 0 | [[João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred) |
+| 20/11/2022 | 1.1 | Atualização do link do Pull request da issue 13 | [João Pedro](https://github.com/jps12) e [Eduardo](https://github.com/fxred) |
+| 22/11/2022 | 1.2 | Atualização do estado das issues ao final da semana | [João Pedro](https://github.com/jps12) |

@@ -18,6 +18,6 @@ No contexto do produto, o Product Backlog foi divido em: Épicos e User Stories.
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 20/11/2022 |  1.0 | Versão inicial do backlog do produto | André Lucas, Fabrício, Kalebe e João Vítor |
+| 20/11/2022 |  1.0 | Versão inicial do backlog do produto | [André Lucas](https://github.com/andrelucasf), [Fabrício](https://github.com/FabricioDeQueiroz), [Kalebe](https://github.com/KalebeLopes) e [João Vítor](https://github.com/Jvsoutomaior) |
 | 11/12/2022 |  1.1 | Correção de erros de digitação do backlog do produto | [Paulo](https://github.com/paulohborba) e [Caio](https://github.com/CaioSulz) |
 | 12/12/2022 |  1.2 | Correção de erros de digitação do backlog do produto | [Paulo](https://github.com/paulohborba) e [Caio](https://github.com/CaioSulz) |
