@@ -1,5 +1,18 @@
 # Franquia Social
 
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fga-eps-mds_2022.2-Amis-Service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fga-eps-mds_2022.2-Amis-Service)
+
+
 O projeto da Plataforma de Franquia Social surgiu no semestre de 2022.2, sendo desenvolvido pelas disciplinas de EPS e MDS. A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. 
 ## Equipe
 
