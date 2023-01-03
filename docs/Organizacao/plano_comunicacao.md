@@ -7,7 +7,7 @@ O quadro de disponibilidade é utilizado como um guia para definir os melhores h
 
 ###	Quadro de Disponibilidade
 
-![quadro_disponibilidade](../assets/quadro_disponibilidade_1.png)
+<iframe width="100%" height="800px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/1CI98JZXCWqoH4d-ycIWcolLLr6fknudG5CTV184qsi0/edit?usp=sharing"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/1CI98JZXCWqoH4d-ycIWcolLLr6fknudG5CTV184qsi0/edit?usp=sharing)
 
@@ -32,4 +32,5 @@ O quadro de disponibilidade é utilizado como um guia para definir os melhores h
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/11/2022|1.0| Criação do documento |[Thiago Luiz](https://github.com/thiagolsg), [Paulo Borba](https://github.com/paulohborba)
-|16/11/2022|1.0| Alteração da introdução |[Thiago Luiz](https://github.com/thiagolsg), [Paulo Borba](https://github.com/paulohborba)
+|16/11/2022|1.1| Alteração da introdução |[Thiago Luiz](https://github.com/thiagolsg), [Paulo Borba](https://github.com/paulohborba)
+|03/01/2023|1.2| Modificação do documento |[Eduardo](https://github.com/fxred) e [Paulo Borba](https://github.com/paulohborba) |
