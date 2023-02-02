@@ -23,6 +23,8 @@ nav:
         - Sequenciador: Visao_Produto/sequenciador.md
         - Canvas MVP: Visao_Produto/canvas_mvp.md
     - Backlog: Backlog/backlog.md
+    - Planejamento:
+        - EAP: Planejamento/EAP/eap.md
     - Arquitetura e Qualidade: 
         - Arquitetura: Arquitetura_Qualidade/arquitetura.md
         - Qualidade: Arquitetura_Qualidade/qualidade.md

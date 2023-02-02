@@ -2,6 +2,10 @@
 
 <p align="justify">Neste documento está descrito todo o processo utilizado para desenvolver o projeto <b>AMIS</b> e para isso foi utilizado metodologias ágeis de <i>software</i>; sendo elas: Scrum e XP.</p>
 
+## Lean Inception
+
+<p align="justify">O Lean Inception é uma maneira eficaz de alinhar a equipe em torno do planejamento de um MVP, buscando alinhar os conhecimentos técnicos e de negócio que os membros do time detém sobre o produto. Se trata exatamente de uma metodologia que ajuda a acelerar a oferta de soluções de forma contínua e consistente, sempre englobando dois eixos fundamentais: os objetivos do negócio e as necessidades dos usuários.</p>
+
 
 ##  <b>Scrum</b>
 
@@ -45,7 +49,33 @@
 ## <b>XP</b>
 <p align="justify">Extreme Programming (XP) é uma estrutura ágil de desenvolvimento de <i>software</i>  que visa produzir um produto mais eficiente com uma maior qualidade de vida para a equipe de desenvolvimento. O XP é o mais específico dos frameworks ágeis em relação às práticas de engenharia apropriadas para o desenvolvimento de <i>software</i>.</p>
 
-<p align="justify">No projeto <i>AMIS</i> foram adotados duas atividades do XP, sendo elas: Programação em Pares e Integração Contínua, descritas abaixo.</p>
+<p align="justify">No projeto <i>AMIS</i> foram adotados algumas práticas do XP, sendo elas: Planning Poker, Design Incremental, Cliente Presente, Releases Curtas, Código Coletivo, Testes Automatizados, Programação em Pares e Integração Contínua, descritas abaixo.</p>
+
+
+### Planning Poker
+<p align="justify">O planning poker, traduzido como Poker do planejamento, visa auxiliar a equipe com votações, em que cada pessoa que faz parte da equipe de desenvolvimento indica um valor dentro de uma sequência de números que representa o esforço e capacidade da equipe em executar a tarefa dentro de um prazo específico. A sequência de número utilizada é similar a encontrada nos números de Fibonacci (1, 2, 3, 5, 8, 13...).
+
+Então, nessa votação, o valor representa o esforço que será gasto para desenvolver um determinado item do backlog. A partir disso, todo o time participante realiza discussões sobre o jogo a fim de avaliar os diferentes pontos de vista e chegar a um senso comum de resposta.</p>
+
+
+### Design Incremental
+<p align=""justify>O Design incremental consiste em definir o design do sistema que está sendo desenvolvido de uma forma contínua e incremetal, em vez de estar concentrada no início do projeto, antes de qualquer codificação. Pois, quando o design é confinado no início do projeto, correm-se diversos riscos, pois os requisitos ainda não estão totalmente claros para o time, e nem mesmo para o representante dos clientes. Além da possibilidade do surgimento de novos requisitos ao longo do projeto, tornando o design inicial desatualizado e menos eficiente.</p>
+
+
+### Cliente Presente
+<p align=""justify>O cliente deve participar ativamente do processo de desenvolvimento. Tudo precisa da comunicação e aprovação com o cliente. Ele deve receber o melhor resultado possível a cada semana, ver o progresso no sistema, ser informado de mudanças de planos, para que saiba qual é o problema a ser resolvido.</p>
+
+
+### Releases Curtas
+<p align=""justify>As releases são pequenos pedaços do produto que serão entregues ao cliente antes do prazo, assim o cliente não precisa esperar o produto ficar pronto para vê-lo. Releases curtas são liberações de pequenas versões funcionais do projeto, que auxiliam no processo de aceitação por parte do cliente, para que já possa testar uma parte do sistema.</p>
+
+
+### Código Coletivo 
+<p align=""justify>Propriedade de código coletiva é a idéia de que todos são igualmente responsáveis por todas as partes. Com isso, os desenvolvedores ganham tempo, pois não precisam esperar a autorização de um colega para editar uma área do código e há maior disseminação de conhecimento. Além disso, quando diversas pessoas têm a chance de olhar uma mesma área do código, torna-se mais frequente a identificação de oportunidades de melhoria, levando frequentemente à refatoração em áreas que precisam das mesmas e correções de bugs.</p>
+
+
+### Testes Automatizados 
+<p align=""justify>A ideia é que testes manuais — um ser humano executando o programa, fornecendo entradas e checando as saídas produzidas — é um procedimento custoso e que não pode ser reproduzido a todo momento. Logo, XP propõe a implementação de programas — chamados de testes — para executar pequenas unidades de um sistema, como métodos, e verificar se as saídas produzidas são aquelas esperadas.</p>
 
 
 ### Programação em Pares
@@ -75,6 +105,20 @@
 
 + Robson Camargo. <b>Conheça a importância de daily meeting nos métodos ágeis</b>. Disponível em: [robsoncamargo.com.br/blog/daily-meeting](https://robsoncamargo.com.br/blog/daily-meeting). Acesso em 16 de novembro de 2022.
 
++ Definição Planning Poker. Disponível em: [devmedia.com.br](https://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019), [blog.xpeducacao.com.br](https://blog.xpeducacao.com.br/planning-poker/#:~:text=O%20planning%20poker%2C%20traduzido%20como,prazo%20e%20execu%C3%A7%C3%A3o%20de%20tarefas). Acesso em 30 de dezembro de 2022.
+
++ Definição Design Incremental. Disponível em: [engsoftmoderna.info](https://engsoftmoderna.info/cap2.html). Acesso em 30 de dezembro de 2022.
+
++ Definição Cliente Presente. Disponível em: [treinaweb.com.br](https://www.treinaweb.com.br/blog/o-que-e-xp-extreme-programming). Acesso em 30 de dezembro de 2022.
+
++ Definição Releases Curtas. Disponível em: [treinaweb.com.br](https://www.treinaweb.com.br/blog/o-que-e-xp-extreme-programming). Acesso em 30 de dezembro de 2022.
+
++ Definição Código Coletivo. Disponível em: [desenvolvimentoagil.com.br](http://www.desenvolvimentoagil.com.br/xp/praticas/codigo_coletivo#:~:text=Em%20um%20projeto%20XP%2C%20os,respons%C3%A1veis%20por%20todas%20as%20partes). Acesso em 30 de dezembro de 2022.
+
++ Definição Testes Automatizados. Disponível em: [engsoftmoderna.info](https://engsoftmoderna.info/cap2.html). Acesso em 30 de dezembro de 2022.
+
++ Definição Lean Inception. Disponível em: [blog.aevo.com.br](https://blog.aevo.com.br/lean-inception/). Acesso em 30 de dezembro de 2022.
+
 <br>
 
 ## Versionamento
@@ -82,4 +126,5 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |16/11/2022|1.0|Adiciona a descrição das metodologias do projeto|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
-|16/11/2022|1.0|Correção gramatical|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
+|16/11/2022|1.1|Correção gramatical|[Thiago Luiz](https://github.com/thiagolsg), [Caio Sulz](https://github.com/CaioSulz)|
+|30/12/2022|1.2|Complementando as metodologias do projeto|[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz), [Caio Sulz](https://github.com/CaioSulz)|
