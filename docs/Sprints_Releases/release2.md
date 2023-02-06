@@ -4,7 +4,7 @@
 
 <p align = "justify">O objetivo deste documento é apresentar a <b>Release 2</b> que se trata do MVP do projeto <b>Amis</b>.</p>
 
-<p align = "justify">A Release 2 foi liberada durante a reunião com o professor Mario Andrade</a> no dia 1 de fevereiro de 2023.
+<p align = "justify">A Release 2 foi liberada durante a reunião com o professor Mario Andrade</a> no dia 1 de fevereiro de 2023.</p>
 
 ## <i>User Stories</i> planejadas para a Release 2 (MVP)
 
