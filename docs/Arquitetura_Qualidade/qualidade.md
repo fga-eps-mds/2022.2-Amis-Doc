@@ -1,23 +1,24 @@
 # Qualidade do Projeto
 
-Este documento tem como objetivo mostrar os critérios, ferramentas e o planejamento da qualidade de código do projeto, esclarecendo o como, quais e porquês das adoções de cada tipo de teste durante o desenvolvimento do produto. O projeto **AMIS** ultilizando a norma NBR 13596.
+Este documento tem como objetivo mostrar os critérios, ferramentas e o planejamento da qualidade de código do projeto, esclarecendo o como, quais e porquês das adoções de cada tipo de teste durante o desenvolvimento do produto. O projeto **AMIS** ultilizando a ISO/IEC 25010.
 
-A norma NBR 13596 define 8 características de qualidade que todos os software devem ter, de forma a alcançar um nível muito alto de qualidade no software que será entregue. São elas: adequação funcional, eficiência de performance, compatibilidade, usabilidade, confiabilidade, segurança, portabilidade e capacidade de manutenção. No projeto AMIS sera focado em 3 principalmente, Adequação Funcional, Usabilidade e Portabilidade mas não tirando a prioridade das outras etapas.
+A ISO/IEC 25010 define 8 pilares de qualidade os quais devem estar presente em todo  produto de software. São elas: adequação funcional, eficiência de performance, compatibilidade, usabilidade, confiabilidade, segurança, portabilidade e capacidade de manutenção. No entanto o projeto AMIS está enfatizado nos pilares de **Adequação Funcional**, **Usabilidade** e **Portabilidade**, os demais princípios também estão presentes no projeto.
 ![Norma NBR de Qualidade](../assets/qualidade_interna_externa.jpg)
-#### Adequação Funcional
+
+## Adequação Funcional
 O produto deve fornecer corretamente funções para todas as necessidades implicitas e explicitas do cliente, de maneira simples e intuitiva.
 No projeto **AMIS**, as necessidades do usuário foram analisadas e especificadas durante o desenvolvimento do <a href="https://fga-eps-mds.github.io/2022.2-Amis-Doc/Visao_Produto/lean_inception/"> Lean Inception</a>, e por fim, foram listadas em forma de histórias de usuário no <a href="https://fga-eps-mds.github.io/2022.2-Amis-Doc/Backlog/backlog/">Product Backlog </a>.
 
-#### Usabilidade
+## Usabilidade
 O produto deve ser feito de maneira que qualquer pessoa consiga ultilizar ou aprender a ultilizar facilmente, ter uma estética que seje agradavel ao usuário e o facilite a entender o que fazer de maneira a evitar o maximo de erros do usuário por não entender o sistema.
 A interface do **AMIS** é projetada para ser fácil de operar e controlar, com navegabilidade intuitiva, para garantir que o sistema possa ser utilizado por usuários com a mais ampla gama de características e capacidades.
 
-#### Portabilidade
+## Portabilidade
 Capacidade do sistema ser ultilizado em outro ambiente e funcionar adequadamente sem muitas dificuldades.
 O projeto AMIS é projetado para ser um web/app, logo conseguindo funcionar em qualquer dispositivo com um navegador de internet.
 
 
-### Planejamento
+## Planejamento
 
 Com o objetivo de obter a melhor qualidade de código, no projeto **AMIS** utilizaremos os *Pylint* e *Pytest* como ferramentas de qualidade para o *back-end*, como também *Jtest* para o *front-end*. 
 
