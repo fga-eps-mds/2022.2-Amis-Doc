@@ -4,9 +4,9 @@
 
 Este documento visa estabelecer o escopo da arquitetura de software que será utilizada para a implementação do projeto AMIS. Serão abordados os padrões de arquitetura, assim como os frameworks e bibliotecas que farão parte do desenvolvimento do projeto. Aqui serão detalhadas as características essenciais da arquitetura adotada pela equipe desenvolvedora a partir da representação arquitetural, as restrições de arquitetura e a visão lógica dados.
 
-## Representação da Arquitetura - Cliente/Servidor
+## Representação da Arquitetura - Microsserviços
 
-Para o desenvolvimento do sistema, foi escolhida a arquitetura de Cliente/Servidor. Esta é uma abordagem onde o software é dividido entre Front-end e Back-end, que se comportam como serviços independentes e se comunicam através de APIs REST. Algumas de suas características são: Sempre espera por um pedido de um cliente, Atende os pedidos e, em seguida, responde aos clientes com os dados solicitados e Interagem diretamente com os usuários finais através de qualquer interface com o usuário.
+Para o desenvolvimento do sistema, foi escolhida a arquitetura de microsserviços ou SOA (Service Oriented Architecture). Esta é uma abordagem onde o software é construído em pequenos serviços independentes, que se comunicam através de APIs. Algumas de suas características são: desacoplamento e independência entre as partes, escalabidade, diversificação de tecnologias e definição clara de domínios.
 
 ## Representação da Arquitetura
 
@@ -23,7 +23,7 @@ O Back-end será composto por pacotes que representam os épicos do nosso backlo
 
 ### Metas:
 - Ser funcional nos principais browsers da atualidade: Chrome, Firefox, Edge, Brave.
-- Código modularizado em pacotes, facilitando a manutenção e escalabilidade.
+- Código modularizado em microsserviços, facilitando a manutenção e escalabilidade.
 - Padronização no design, na comunicação e integração com o banco de dados, API, frontend e backend.
 - Facilitar uma futura implementação mobile.
 
@@ -46,7 +46,7 @@ No front-end, escolhemos o ReactJS. React é uma biblioteca útil na criação d
 
 ### **Backend:** FastAPI (Python)
 
-Para o back-end, escolhemos o FastAPI. Este framework é útil na criação de APIs e um dos frameworks mais performáticos disponível, baseado na linguagem Python. A escolha foi baseada em vários aspectos, dentre eles o os principais foram: estabilidade, confiabilidade e agilidade do framework e uma curva de aprendizado mais favorável ao grupo em relação a outros frameworks (por ter código enxuto). Além do fato do framework ter um sistema de requisições à API embutido, o Swagger.
+Para o back-end, escolhemos o FastAPI. Este framework é útil na criação de APIs e um dos frameworks mais performáticos disponível, baseado na linguagem Python. A escolha foi baseada em vários aspectos, dentre eles o os principais foram: estabilidade, confiabilidade e agilidade do framework e uma curva de aprendizado mais favorável ao grupo em relação a outros frameworks (por ter código enxuto), e a melhor utilização da arquitetura por microsserviços. Além do fato do framework ter um sistema de requisições à API embutido, o Swagger.
 
 ### **Banco de Dados:** Relacional (MySQL)
 
