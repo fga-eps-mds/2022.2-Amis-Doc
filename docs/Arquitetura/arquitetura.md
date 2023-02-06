@@ -10,7 +10,7 @@ Para o desenvolvimento do sistema, foi escolhida a arquitetura de microsserviço
 
 ## Representação da Arquitetura
 
-![Representação da Arquitetura](../assets/arquitetura.jpeg)
+![Representação da Arquitetura](../assets/arquitetura.png)
 
 O Back-end será composto por pacotes que representam os épicos do nosso backlog, que estão listados a seguir:
 
@@ -136,3 +136,4 @@ Que, numa visão lógica, são representadas por:
 | 26/11/2022 | 0.3 | Adição das Restrições e definições das Tecnologias | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Eduardo](https://github.com/fxred) e [Fabrício](https://github.com/FabricioDeQueiroz) |
 | 05/12/2022 | 0.4 | Alteração das definições de arquitetura | [Gabriela Pivetta](https://github.com/gabrielapivetta), [Kalebe](https://github.com/KalebeLopes) |
 | 05/12/2022 | 0.5 | Adição dos diagramas | [Kalebe](https://github.com/KalebeLopes), [Gabriela Pivetta](https://github.com/gabrielapivetta) |
+| 06/02/2023 | 0.6 | Alteração diagrama | [Kalebe](https://github.com/KalebeLopes), [Eduardo](https://github.com/fxred) |
