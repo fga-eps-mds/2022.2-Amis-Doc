@@ -25,7 +25,7 @@ O quadro de disponibilidade é utilizado como um guia para definir os melhores h
 ###	Reuniões recorrentes
 
 - Reunião com o cliente: quarta-feira às 8h30.
-- Sprint Planning/Review: segunda-feira às 21h.
+- Sprint Planning/Review: quarta-feira às 21h.
 - Dailys: terça e quinta 15h50 e sexta-feira às 9h.
 ## Versionamento
 
