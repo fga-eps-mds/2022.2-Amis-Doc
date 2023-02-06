@@ -14,6 +14,16 @@
 
 
 O projeto da Plataforma de Franquia Social surgiu no semestre de 2022.2, sendo desenvolvido pelas disciplinas de EPS e MDS. A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. 
+
+## Links do Projeto
+
+OBS: Links válidos até 13/02/2023.
+
+[Link de Homologação](https://happy-mushroom-000c0700f.2.azurestaticapps.net/)
+
+[Link do Backend - Service](https://service-amis.azurewebsites.net/)
+
+[Link do Backend - Login](https://auth-amis.azurewebsites.net/)
 ## Equipe
 
 A equipe é composta por 11 membros ao todo, sendo 5 de EPS e 6 de MDS, afim de documentar e desenvolver o projeto.
