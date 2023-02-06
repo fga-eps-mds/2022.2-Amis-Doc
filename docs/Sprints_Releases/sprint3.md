@@ -1,8 +1,8 @@
-# Sprint 6
+# Sprint 3
 
 # Objetivo
 
-- Desenvolvimento da US04 - Alocação de alunas nas turmas, US06 - Criação do Login e US11 - Visualização de pessoas impactadas
+- Desenvolvimento da US04: Alocação de alunas nas turmas, US06: Criação do Login e US11: Visualização de pessoas impactadas
 - Correção de dívidas técnicas
 
 # Planejamento
@@ -37,7 +37,7 @@
 | ---- | ---- |
 | [André Lucas](https://github.com/andrelucasf) |  Exibir Login na tela 
 | [Gabriela Pivetta](https://github.com/gabrielapivetta) |  Exibir alocação de alunas nas turmas na tela 
-| [João Pedro](https://github.com/jps12) |    
+| [João Pedro](https://github.com/jps12) |    Configuração ambiente Azure
 | [Kalebe Lopes](https://github.com/KalebeLopes) |  Endpoints de alocação de alunas nas turmas, Criação do login
 | [Thiago Luiz](https://github.com/thiagolsg) |    Endpoint visualização de dados de pessoas impactadas no projeto,  Criação do login
 | [Caio Sulz](https://github.com/CaioSulz) |  Endpoint visualização de dados de pessoas impactadas no projeto,  Exibir Login na tela
