@@ -4,7 +4,7 @@
 
 - Criação da página de turmas e dependências: interface gráfica e modelo;
 - Criação da página de assistentes e dependências: interface gráfica e modelo;
-- Configuração de ambiente de testes (front-end)
+- Configuração de ambiente de testes (front-end);
 - Evolução de alguns documentos, incluindo: metodologia, protótipo, qualidade, backlog, etc.
 
 # Planejamento
@@ -62,3 +62,4 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
 | 06/02/2023 | 1.0 | Criação do documento | [Eduardo Ferreira](https://github.com/fxred) |
+| 06/02/2023 | 1.1 | Atualização do documento | [Eduardo Ferreira](https://github.com/fxred) |
