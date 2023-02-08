@@ -21,7 +21,7 @@
 | [#107](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/107) | Endpoint visualização de dados de pessoas impactadas no projeto | Amis-Service | [Thiago Gomes](https://github.com/thiagolsg), [João Vitor](https://github.com/Jvsoutomaior) e [Caio Sulz](https://github.com/CaioSulz) |
 | [#108](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/108) | Exibir Login na tela | Amis-Front | [André Lucas](https://github.com/andrelucasf), [Italo Bruno](https://github.com/ItaloBrunoM) e [Caio Sulz](https://github.com/CaioSulz) |
 | [#109](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/109) | Exibir visualização de dados das pessoas impactadas na tela | Amis-Front | [Eduardo Ferreira](https://github.com/fxred), [Italo Bruno](https://github.com/ItaloBrunoM) e [João Vitor](https://github.com/Jvsoutomaior) |
-| [#110](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/110) | Criação do login | Amis-Service | [Kalebe Lopes](https://github.com/KalebeLopes) e [Thiago Gomes](https://github.com/thiagolsg) |
+| [#110](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/110) | Criação do login | Amis-Login | [Kalebe Lopes](https://github.com/KalebeLopes) e [Thiago Gomes](https://github.com/thiagolsg) |
 | [#111](https://github.com/fga-eps-mds/2022.2-Amis-Doc/issues/111) | Configuração ambiente Azure | Amis-Service | [João Pedro](https://github.com/jps12) e [Thiago Gomes](https://github.com/thiagolsg)|
 <!-- | [#issue]() | Desc | Repo | [Part]() | -->
 
